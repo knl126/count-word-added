@@ -10,4 +10,5 @@ public class WordCountApplication {
 		SpringApplication.run(WordCountApplication.class, args);
 		
 	}
+	
 }
