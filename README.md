@@ -9,6 +9,8 @@ Import and run WordCountApplication class as Spring boot app
 
 Important classes:
 WordCountAppliation - main class
+
 Controller : Count controller
+
 Word processor : DictionaryProcessor.
 This class is repsobile for adding word reuested. This class will also validate and convert word into english before adding.
